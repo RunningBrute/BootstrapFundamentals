@@ -8,8 +8,11 @@ nav{
 
 footer{
     background-color: white;
+    height: 50px;
 }
 
 section{
     background-color: lightblue;
+    height: 600px;
+    width: 1200px;
 }
