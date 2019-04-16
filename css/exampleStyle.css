@@ -1,5 +1,8 @@
 body{
-    background-color: grey;
+    background: url(../img/background_shop.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 nav{
@@ -7,20 +10,25 @@ nav{
 }
 
 footer{
-    background-color: darkseagreen;
+    background-color: darkslategray;;
     height: 50px;
     border-style: solid;
     border-radius: 0.5%;
     border-width: 1px;
     margin: 1px;
+    opacity: 0.8;
 }
 
-section{
-    background-color: darkseagreen;
-    height: 600px;
-    width: 1200px;
+section article{
+    align-content: center;
+    background-color: darkslategray;;
+    height: 50em;
+    width: 50em;
     border-style: solid;
     border-radius: 0.5%;
     margin: 1px;
     border-width: 1px;
+    opacity: 0.9;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
