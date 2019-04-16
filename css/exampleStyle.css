@@ -3,16 +3,24 @@ body{
 }
 
 nav{
-    background-color: white;
+    background-color: darkslategray;
 }
 
 footer{
-    background-color: white;
+    background-color: darkseagreen;
     height: 50px;
+    border-style: solid;
+    border-radius: 0.5%;
+    border-width: 1px;
+    margin: 1px;
 }
 
 section{
-    background-color: lightblue;
+    background-color: darkseagreen;
     height: 600px;
     width: 1200px;
+    border-style: solid;
+    border-radius: 0.5%;
+    margin: 1px;
+    border-width: 1px;
 }
